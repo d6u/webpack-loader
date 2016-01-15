@@ -1,0 +1,29 @@
+{
+  "name": "webpack-loader",
+  "version": "0.0.1",
+  "description": "Loader for JS file entry point",
+  "author": "Daiwei Lu <daiweilu123@gmail.com> (http://daiwei.lu)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d6u/webpack-html-entry.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-loader"
+  ],
+  "bugs": {
+    "url": "https://github.com/d6u/webpack-html-entry/issues"
+  },
+  "homepage": "https://github.com/d6u/webpack-html-entry#readme",
+  "main": "lib/index.js",
+  "dependencies": {
+    "lodash": "^4.0.0",
+    "memory-fs": "^0.3.0",
+    "webpack": "^1.12.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
