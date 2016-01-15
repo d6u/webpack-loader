@@ -56,3 +56,7 @@ node -e "console.log(require('./build/index.js'))" > build/index.html
 ```
 
 _(We can potentially wrap above step into a separate package.)_
+
+## Thought?
+
+Very simple, right? What do you think? Love to hear feedbacks as issue or PR.
